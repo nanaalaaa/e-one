@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 require('dotenv').config();
 
 const express = require('express');
@@ -31,6 +32,18 @@ app.get('/', (req, res, next) => {
     });
   }
 ); 
+=======
+const express = require('express');
+
+const app = express();
+
+//init middleware
+
+//init db
+
+// init routes
+
+>>>>>>> ceaeedfe9a493ae91fe2a3dcb8c662cfc8888c1f
 //handling error
 
 module.exports = app;

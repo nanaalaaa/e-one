@@ -18,11 +18,15 @@
   },
   "homepage": "https://github.com/nanaalaaa/e-one#readme",
   "dependencies": {
+<<<<<<< HEAD
     "compression": "^1.8.1",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
     "helmet": "^8.1.0",
     "mongoose": "^9.0.0",
     "morgan": "^1.10.1"
+=======
+    "express": "^5.1.0"
+>>>>>>> ceaeedfe9a493ae91fe2a3dcb8c662cfc8888c1f
   }
 }
